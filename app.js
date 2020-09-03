@@ -76,5 +76,5 @@ app.use('/trainers', trainers);
 
 //hosting
 app.listen(2008,function(){
-    console.log("2000");
+    console.log("2008");
 })
